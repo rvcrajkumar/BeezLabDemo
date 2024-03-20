@@ -1,0 +1,11 @@
+D:\Demo\MainApp\MainApp\bin\Debug\MainApp.exe.config
+D:\Demo\MainApp\MainApp\bin\Debug\MainApp.exe
+D:\Demo\MainApp\MainApp\bin\Debug\MainApp.pdb
+D:\Demo\MainApp\MainApp\bin\Debug\SubsidiaryCodeDLL.dll
+D:\Demo\MainApp\MainApp\bin\Debug\SubsidiaryCodeDLL.pdb
+D:\Demo\MainApp\MainApp\bin\Debug\SubsidiaryCodeDLL.dll.config
+D:\Demo\MainApp\MainApp\obj\Debug\MainApp.csproj.AssemblyReference.cache
+D:\Demo\MainApp\MainApp\obj\Debug\MainApp.csproj.CoreCompileInputs.cache
+D:\Demo\MainApp\MainApp\obj\Debug\MainApp.csproj.Up2Date
+D:\Demo\MainApp\MainApp\obj\Debug\MainApp.exe
+D:\Demo\MainApp\MainApp\obj\Debug\MainApp.pdb

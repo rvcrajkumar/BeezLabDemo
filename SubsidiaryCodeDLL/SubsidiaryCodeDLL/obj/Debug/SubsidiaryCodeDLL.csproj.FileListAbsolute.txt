@@ -1,0 +1,7 @@
+D:\Demo\SubsidiaryCodeDLL\SubsidiaryCodeDLL\bin\Debug\SubsidiaryCodeDLL.dll.config
+D:\Demo\SubsidiaryCodeDLL\SubsidiaryCodeDLL\bin\Debug\SubsidiaryCodeDLL.dll
+D:\Demo\SubsidiaryCodeDLL\SubsidiaryCodeDLL\bin\Debug\SubsidiaryCodeDLL.pdb
+D:\Demo\SubsidiaryCodeDLL\SubsidiaryCodeDLL\obj\Debug\SubsidiaryCodeDLL.csproj.AssemblyReference.cache
+D:\Demo\SubsidiaryCodeDLL\SubsidiaryCodeDLL\obj\Debug\SubsidiaryCodeDLL.csproj.CoreCompileInputs.cache
+D:\Demo\SubsidiaryCodeDLL\SubsidiaryCodeDLL\obj\Debug\SubsidiaryCodeDLL.dll
+D:\Demo\SubsidiaryCodeDLL\SubsidiaryCodeDLL\obj\Debug\SubsidiaryCodeDLL.pdb
